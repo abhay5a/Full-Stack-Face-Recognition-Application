@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+.display-flex {
+  position: flex;
+}
+.justify-content-center {
+  justify-content: center;
+}
+.position-absolute {
+  position: absolute;
+}
